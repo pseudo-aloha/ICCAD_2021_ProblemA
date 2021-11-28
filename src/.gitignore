@@ -1,0 +1,12 @@
+.vscode/
+
+*.o
+*.a
+*extheader.mak
+*depend.mak
+
+*.aag
+*.aig
+*.v
+
+out*

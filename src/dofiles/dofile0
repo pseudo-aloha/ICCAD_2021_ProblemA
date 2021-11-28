@@ -1,0 +1,3 @@
+miter ../inputs/case1/g1.v ../inputs/case1/r2.v
+fraig
+write_aiger ../outputs/case1/miter.aig
