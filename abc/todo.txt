@@ -1,0 +1,6 @@
+*note that a new variable void* myData is added to Abc_Obj_t
+
+base/abci/abcStrash.c line 306: 
+	store net name (and complement) to strashed nodes
+base/abci/abcMiter.c line 109: 
+	add POs with net name

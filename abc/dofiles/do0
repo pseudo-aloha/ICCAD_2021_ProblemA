@@ -1,0 +1,5 @@
+miter ../inputs/cad/test6/g1.v ../inputs/cad/test6/r2.v
+print_stats
+fraig
+print_stats
+sat

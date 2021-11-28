@@ -1,0 +1,2 @@
+read_verilog ./testset/test2/r1.v
+print_auto

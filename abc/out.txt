@@ -1,0 +1,11 @@
+Using CC=gcc
+Using CXX=g++
+Using AR=ar
+Using LD=g++
+Compiling with CUDD
+Using libreadline
+Using pthreads
+Found GCC_VERSION 9
+Found GCC_MAJOR>=5
+Using CFLAGS=-DECO_LIB
+`` Compiling: /src/base/ver/verCore.c
