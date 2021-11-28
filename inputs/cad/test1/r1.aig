@@ -1,0 +1,9 @@
+aig 5 3 0 1 2
+10
+i0 id1
+i1 id2
+i2 id3
+o0 aiger_output_0
+c 
+c AIGER with Symbol Table generated @ Tue Jun  8 12:22:43 2021 by V3 
+c                         compiled @ Jun  8 2021 11:51:33

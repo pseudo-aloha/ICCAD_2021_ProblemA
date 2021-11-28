@@ -1,0 +1,20 @@
+module top(o, a, b, c, d,e,f,g,h,i,j,k,l,m,n,p,q);
+output o;
+input a, b, c, d,e,f,g,h,i,j,k,l,m,n,p,q;
+wire n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14;
+xor g1(n3, n7, n8);
+xor g2(n4, n9, n10);
+or  g3(n1, n3, n4);
+and g4(o, n1, n2);
+or  g5(n2, n5, n6);
+and g6(n5, n11, n12);
+and g7(n6, n13, n14);
+nor g8(n7, a, b);
+xor g9(n8, c, d);
+xor g10(n9, e, f);
+xor g11(n10, g, h);
+or  g12(n11, i, j);
+xor g13(n12, k, l);
+and g14(n13, m, n);
+xnor g15(n14, p, q);
+endmodule
